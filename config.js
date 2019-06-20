@@ -6,12 +6,7 @@ module.exports = {
 		port: 6631,
 		path: '/',
 
-		http2: true,
-
-		perm: {
-			key: 'D:/Runtime/Pem/multi/domain-key.txt',
-			cert: 'D:/Runtime/Pem/multi/domain-crt.txt',
-		}
+		http2: false,
 	},
 
 	path: {
