@@ -8,5 +8,6 @@ module.exports = {
 
 	path: {
 		pile: '/root/pile',
+		favIcon: './favicon.ico',
 	}
 };
