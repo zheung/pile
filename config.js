@@ -7,6 +7,6 @@ module.exports = {
 	},
 
 	path: {
-		pile: './pile',
+		pile: '/root/pile',
 	}
 };

@@ -1,11 +1,5 @@
 #Node Modules Folder
 /node_modules
 
-#Auth
-/.auth.js
-
-#Dist
-/dist
-
 #log
 /logs
