@@ -1,6 +1,6 @@
 {
 	"name": "@nuogz-app/pile",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"description": "A simple static file server for desire.",
 	"author": "Nuogz",
 	"license": "LGPL-3.0-or-later",

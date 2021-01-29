@@ -11,6 +11,14 @@ new Desire(
 		host: C.host,
 		port: C.port,
 		favicon: C.paths.favicon,
+		faces: [
+			{
+				method: 'get', path: '/',
+				handle() {
+					return 'Hi, Pile.';
+				}
+			}
+		],
 		folds: [
 			{
 				prefix: '/',
