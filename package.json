@@ -1,0 +1,15 @@
+{
+	"name": "@nuogz-app/pile",
+	"version": "2.0.0",
+	"description": "A simple static file server for desire.",
+	"author": "Nuogz",
+	"license": "LGPL-3.0-or-later",
+	"main": "index.js",
+	"devDependencies": {
+		"eslint": "^7.18.0"
+	},
+	"dependencies": {
+		"@nuogz/desire": "^4.6.0",
+		"@nuogz/gaia": "^2.1.0"
+	}
+}

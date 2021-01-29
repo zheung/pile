@@ -1,0 +1,7 @@
+{
+	"javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+	"javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+	"javascript.preferences.quoteStyle": "single",
+	"javascript.suggestionActions.enabled": false,
+	"typescript.suggestionActions.enabled": false
+}
