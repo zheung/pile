@@ -14,9 +14,7 @@ new Desire(
 		faces: [
 			{
 				method: 'get', path: '/',
-				handle() {
-					return 'Hi, Pile.';
-				}
+				handle() { return 'Hi, Pile.'; }
 			}
 		],
 		folds: [
